@@ -1,5 +1,5 @@
 # CSPI Resources
-Services privacy-focused alternatives.
+CSPI resources (Security & Privacy Focused Stuff).
 
 ## Installation
 Github:
